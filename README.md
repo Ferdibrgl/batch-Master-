@@ -1,6 +1,6 @@
 # batch-Master-Important Notice-
 
-Here is some more detailed information about the scripts I have written.  I do not consider myself a programmer, I create these little programs as experiments to have a play with the language, or to solve a problem for myself.  I would gladly accept pointers from others to improve the code and make it more efficient, or simplify the code.  If you would like to make any comments then please feel free to email me at craig@geekcomputers.co.uk.
+İşte yazdığım senaryolar hakkında daha ayrıntılı bilgiler. Kendimi bir programcı olarak görmüyorum, bu küçük programları dil ile oynamak veya kendim için bir problem çözmek için deneyler olarak yaratıyorum. Kodu geliştirmek ve daha verimli hale getirmek veya kodu basitleştirmek için başkalarından gelen ipuçlarını memnuniyetle kabul ederim. Herhangi bir yorum yapmak isterseniz, lütfen bana  adresinden e-posta göndermekten çekinmeyin.ferdibrgl0919@gmail.com
 
 In the scripts the comments etc are lined up correctly when they are viewed in Notepad++. This is what I use to code Batch scripts.
 
